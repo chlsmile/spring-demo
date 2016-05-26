@@ -2,4 +2,5 @@ target
 .idea/*
 *.iml
 logs/
+out/
 tesla.client.sentrycache.data
